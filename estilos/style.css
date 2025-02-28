@@ -14,3 +14,11 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.418);
 }
+
+h1{
+    color: rgb(255, 161, 45);
+    font-size: large;
+}
+article {
+    text-align: justify;
+}
